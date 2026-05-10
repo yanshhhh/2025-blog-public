@@ -5,7 +5,7 @@
 		"username": "Yanshhhh"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#A8ED43",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -15,9 +15,10 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#E02A32",
+		"#C70636",
+		"#7D5275",
+		"#310F92"
 	],
 	"artImages": [
 		{
@@ -75,7 +76,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": true,
+	"enableChristmas": false,
 	"beian": {
 		"text": "",
 		"link": ""
